@@ -90,6 +90,7 @@ To get the project up and running, follow these steps:
 # Postman Collection
 
 I have also included a Postman Collection to help you quickly test the API endpoints. The collection covers the following operations:
+Postman Collection is in exportXML folder.
 
 ## Importing the Collection
 
