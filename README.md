@@ -248,9 +248,9 @@ To make it easier to work with different environments, the Postman collection us
 {{aircraft_id}}: The ID of the aircraft.
 
 
-## Important Note
+# Important Note
 
-Issue with Endpoints:
+## Issue with Endpoints:
 
 For the "Update an Aircraft" and "Delete an Aircraft" operations, there is an error in the provided endpoints. The correct endpoints should be:
 
