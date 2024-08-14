@@ -18,7 +18,7 @@ Before you start, make sure you have the following installed:
 
 - **Java 17**: The application is built with Java 17.
 - 
-- **Gradle**: We’re using Gradle as the build tool.
+- **Gradle**: We’re using Gradle as the build tool.(8 or higher)
 - 
 - **PostgreSQL**: The application connects to a PostgreSQL database.
 
